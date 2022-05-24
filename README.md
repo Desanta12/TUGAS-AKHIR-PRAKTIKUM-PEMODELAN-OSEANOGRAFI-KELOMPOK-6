@@ -12,6 +12,8 @@ Adveksi merupakan mekanisme perpindahan massa suatu materi dari suatu titik ke t
 
 **DIFUSI**
 
+
+
 # MODUL 2 : ADVEKSI-DIFUSI 2D
 Proses penyebaran polutan terjadi melalui dua proses utama yaitu difusi dan adveksi, dan dapat dianggap dua mekanisme yang terpisah. Adveksi adalah proses perpindahan panas sebagai akibat dari adanya aliran. Difusi adaalah proses perpindahan panas berupa rambatan dari air dengan temperatur tinggi ke air dengan temperatur yang lebih rendah.
 
